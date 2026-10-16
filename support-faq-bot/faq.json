@@ -1,0 +1,18 @@
+[
+  {
+    "question": "How long does delivery take?",
+    "answer": "Orders are delivered within 24 hours."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept credit cards, bank transfer and PayPal."
+  },
+  {
+    "question": "How do I get a refund?",
+    "answer": "Contact support within 14 days of purchase for a full refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click 'Forgot password' on the login page."
+  }
+]

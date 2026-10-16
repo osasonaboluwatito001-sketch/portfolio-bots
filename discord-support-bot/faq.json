@@ -1,0 +1,28 @@
+{
+  "install": {
+    "keywords": [
+      "install",
+      "setup",
+      "download"
+    ],
+    "answer": "Download the latest release and follow the quick-start guide in the docs."
+  },
+  "billing": {
+    "keywords": [
+      "billing",
+      "invoice",
+      "charge",
+      "payment"
+    ],
+    "answer": "Billing questions: check your account dashboard \u2192 Billing. Open a /ticket for anything else."
+  },
+  "reset-password": {
+    "keywords": [
+      "password",
+      "reset",
+      "login",
+      "locked"
+    ],
+    "answer": "Use 'Forgot password' on the login page; a reset link arrives within a few minutes."
+  }
+}

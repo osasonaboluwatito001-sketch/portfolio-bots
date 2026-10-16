@@ -1,0 +1,34 @@
+{
+  "delivery": {
+    "keywords": [
+      "delivery",
+      "deliver",
+      "how long",
+      "when",
+      "receive",
+      "arrive"
+    ],
+    "answer": "Digital codes are usually delivered within 5\u201330 minutes after payment is confirmed."
+  },
+  "payment": {
+    "keywords": [
+      "pay",
+      "payment",
+      "card",
+      "crypto",
+      "transfer",
+      "price"
+    ],
+    "answer": "We accept card, bank transfer and major crypto. The seller will share payment details after you choose a product."
+  },
+  "refunds": {
+    "keywords": [
+      "refund",
+      "money back",
+      "return",
+      "cancel",
+      "not working"
+    ],
+    "answer": "If a code doesn't work, contact us within 48 hours and we'll replace it or refund you in full."
+  }
+}

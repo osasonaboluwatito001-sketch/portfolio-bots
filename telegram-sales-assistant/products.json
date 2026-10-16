@@ -1,0 +1,26 @@
+[
+  {
+    "id": "chess-1m",
+    "name": "Chess Premium \u2013 1 month",
+    "price": "$4.99",
+    "description": "Premium membership for an online chess platform, 1 month."
+  },
+  {
+    "id": "chess-12m",
+    "name": "Chess Premium \u2013 12 months",
+    "price": "$39.99",
+    "description": "Premium membership, 12 months."
+  },
+  {
+    "id": "music-3m",
+    "name": "Music Streaming \u2013 3 months",
+    "price": "$14.99",
+    "description": "Ad-free music streaming gift code."
+  },
+  {
+    "id": "vpn-1y",
+    "name": "VPN \u2013 1 year",
+    "price": "$29.99",
+    "description": "One-year VPN subscription key."
+  }
+]
